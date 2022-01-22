@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @almodovarj2
-- 👀 I’m interested in becoming a web developer
-- 🌱 I’m currently learning fullstack Javascript development through Team Treehouse and The Odin Project.
+- 👋 Hi, I’m Joshua Almodovar
+- 👀 I’m a self-taught Junior Web Developer.
+- 🌱 I’m currently pursuing my Computer Science degree while self teaching programming.
+- ⭐️ I have a passion for learning and expanding my skills as a developer.
 - 📫 Reach me at joshjalmo@gmail.com
 
 <!---
