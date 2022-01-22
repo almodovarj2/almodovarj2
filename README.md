@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joshua Almodovar
 - 👀 I’m a self-taught Junior Web Developer.
-- 🌱 I’m currently pursuing my Computer Science degree while self teaching programming.
+- 🌱 I’m currently pursuing a degree in Software Engineering while self teaching.
 - ⭐️ I have a passion for learning and expanding my skills as a developer.
 - 📫 Reach me at joshjalmo@gmail.com
 
