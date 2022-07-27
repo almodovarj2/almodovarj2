@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Joshua Almodovar
-- 👀 I’m a self-taught Web Developer.
-- 🌱 I’m currently pursuing a degree in Software Engineering.
-- ⭐️ I have a passion for learning and expanding my skills as a developer.
+- 👀 I’m a Data Analyst with a passion for learning and growing my skillset.
+- ⭐️ This is where I share all my SQL and Python magic.
 - 📫 Reach me at joshjalmo@gmail.com
 
 <!---
