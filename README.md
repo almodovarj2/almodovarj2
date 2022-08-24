@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Joshua Almodovar
 - 👀 I’m a Data Analyst with a passion for learning and growing my skillset.
 - ⭐️ This is where I share all my SQL and Python magic.
-- 📫 Reach me at joshjalmo@gmail.com
+- 📫 Reach me at josh@joshalmodovar.com
 
 <!---
 almodovarj2/almodovarj2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
