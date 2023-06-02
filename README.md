@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Joshua Almodovar
+- 👋 Hey, I’m Josh
 - 👀 I’m a Data Analyst with a passion for learning and growing my skillset.
 - ⭐️ This is where I share my SQL and Python magic.
 - 📫 Reach me at josh@joshalmodovar.com
