@@ -1,5 +1,5 @@
 - 👋 Hey, I’m Josh
-- 👀 I’m currently working as a Data Analyst and training towards becoming a Data Engineer.
+- 👀 I’m currently working as a Data Analyst and constantly working to improve my skills.
 - ⭐️ This is where I share my projects, portfolio, and work in progress.
 - 📫 Reach me at josh@joshalmodovar.com
 
