@@ -6,7 +6,7 @@ This is where I share projects, experiments, and tools I’m building as I sharp
 
 You can reach me at: josh@joshalmodovar.com
 
-Or see some of my writing and other works in progress at: [joshalmodovar.com](tab:https://joshalmodovar.com)
+Reach me at [josh@joshalmodovar.com](mailto:josh@joshalmodovar.com), or visit [joshalmodovar.com](https://joshalmodovar.com).
 <!---
 almodovarj2/almodovarj2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
