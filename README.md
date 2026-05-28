@@ -1,6 +1,6 @@
 # Hey, I’m Josh.
 
-I’m a data analyst focused on SQL, Python, automation, and practical systems that make messy work easier.
+I’m a data analyst focused on SQL, Python, automation, and system design.
 
 This is where I share projects, experiments, and tools I’m building as I sharpen my technical craft.
 
